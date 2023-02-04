@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int i,n,count;
-    cout<<"Enter the value of i";
+    cout<<"Enter the value of i: ";
     cin>>i;
     if(n<2){
         cout<<"Not prime not composite";
